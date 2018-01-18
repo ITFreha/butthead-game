@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0666d39630adcab4089b7cd045fb0a63
+timeCreated: 1512598262
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CampusOtl
+  fontNames:
+  - CampusOtl
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
